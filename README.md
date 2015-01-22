@@ -5,5 +5,5 @@ Scan a directory and get an output of files grouped by extension.
 After cloning the project, in the console in the project directory:
 ```
 go build scandir.go
-./scandir -dir/Users/tracehelms/
+./scandir -dir=/Users/tracehelms/
 ```
